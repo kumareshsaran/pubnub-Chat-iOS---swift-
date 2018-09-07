@@ -1,0 +1,6 @@
+framework module Pods_PubnubChat {
+  umbrella header "Pods-PubnubChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
